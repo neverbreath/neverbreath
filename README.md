@@ -24,7 +24,7 @@ Open to: **Junior DevOps / SRE roles** where I can grow as a part of a team.
 
 ## 📊 GITHUB METRICS
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=neverbreath&theme=rust-ferris-light&hide_border=true&border_radius=16" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=neverbreath&theme=whatsapp&hide_border=true&border_radius=16" width="49%" /> </p>
 
 ## 🧰 TOOLCHAIN
 
