@@ -14,10 +14,10 @@ My mission: build infrastructure that's **resilient**, **secure**, and **a pleas
 
 ## 🎯 CURRENT FOCUS
 
-```text
-🔭  Kubernetes & GitOps          ████████████░░░░░░  70%
-🌱  Advanced CI/CD pipelines     ██████████░░░░░░░░  60%
-📚  Security Best Practices      █████████████░░░░░  75%
+```
+🔭  Kubernetes & GitOps         
+🌱  Advanced CI/CD pipelines   
+📚  Security Best Practices    
 ```
 
 Open to: **Junior DevOps / SRE roles** where I can grow as a part of a team.
