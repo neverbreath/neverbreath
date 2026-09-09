@@ -20,7 +20,7 @@ My mission: build infrastructure that's **resilient**, **secure**, and **a pleas
 📚  Security Best Practices      █████████████░░░░░  75%
 ```
 
-Open to: **Junior DevOps / SRE roles** where I can grow as a part of the team.
+Open to: **Junior DevOps / SRE roles** where I can grow as a part of a team.
 
 ## 📊 GITHUB METRICS
 
