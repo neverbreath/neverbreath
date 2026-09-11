@@ -24,18 +24,6 @@
   </tr>
 </table>
 
-## GITHUB METRICS
-
-<p align="center"><img src="https://private-user-images.githubusercontent.com/131459863/471597551-29d95133-e595-483e-b354-4eca0332f27a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODkwNzk1MzIsIm5iZiI6MTc4OTA3OTIzMiwicGF0aCI6Ii8xMzE0NTk4NjMvNDcxNTk3NTUxLTI5ZDk1MTMzLWU1OTUtNDgzZS1iMzU0LTRlY2EwMzMyZjI3YS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkxMFQyMjI3MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jY2I3YmIyZWFiNDczMzljZWQ0OGEyNWJmZjQxYjgxNDY0ODQ3YTNiY2Q0ODdjYjg1OTU5OGMyOGIzOTEyMDJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.-oZy5EwOpHUmQtLBV6R6oIVEEmmWJfTH9O51yIg5jD0" alt="Rabbit" height="400" /></p>
-
-<p align="center"><a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-  <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=neverbreath&color=2563eb&theme=dark&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=neverbreath&color=2563eb&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=neverbreath&color=2563eb&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" width="846" height="164" style="height:auto" />
-  </picture>
-</a></p>
-
 ## TOOLCHAIN
 
 <p align="center">
