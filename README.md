@@ -9,17 +9,11 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/neverbreath/diploma-k8s"><b>Diploma Project: Container Management System Based on Docker and Kubernetes</b></a></td>
+<td><a href="https://github.com/neverbreath/diploma-k8s"><b>Diploma Project: Container Management System Based on Docker and Kubernetes</b></a></td>
+  </td>
     <td>Container management system based on Docker and Kubernetes. Automatically deploys a lab environment of three Alt Linux VMs (control-plane, dev workstation, client) with a private registry, a test microservice (Nginx + Flask), and a security layer (RBAC, NetworkPolicy, Pod Security Standards).</td>
     <td>
-      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/alt%20linux-%23A2C037.svg?style=for-the-badge&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/trivy-%237B4FCF.svg?style=for-the-badge&logo=aquasec&logoColor=white" />
+<b>Kubernetes</b>, <b>Docker</b>, <b>Alt Linux</b>, <b>Nginx</b>, <b>Flask</b>, <b>Python</b>, <b>Shell</b>, <b>Trivy</b>
     </td>
   </tr>
 </table>
